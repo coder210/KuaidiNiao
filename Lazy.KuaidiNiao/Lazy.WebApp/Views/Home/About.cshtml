@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<form id="form1" action="http://www.kdniao.com/External/PrintOrder.aspx" method="post" target="_self">
+    <div style="width:600px;margin:0 auto">
+        <div><input type="text" runat="server" id="RequestData"  name="RequestData" value="@ViewBag.RequestData" /></div><br /><br />
+        <div><input type="text" runat="server" id="EBusinessID" name="EBusinessID" value="@ViewBag.EBusinessID" /></div><br /><br />
+        <div><input type="text" runat="server" id="DataSign" name="DataSign" value="@ViewBag.DataSign" /></div><br /><br />
+        <div><input type="text" runat="server" id="IsPreview" name="IsPreview" value="@ViewBag.IsPreview" /></div><br /><br />
+    </div>
+
+    <input type="button" id="print" value="打印" />
+
+    <script type="text/javascript">
+        window.onload = function () {
+            var btn = document.getElementById('print');
+            btn.onclick = function () {
+                form1.submit();
+            };
+        };
+    </script>
+</form>

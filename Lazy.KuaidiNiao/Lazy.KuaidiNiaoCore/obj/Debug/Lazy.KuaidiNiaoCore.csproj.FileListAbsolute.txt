@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\bin\Debug\Lazy.KuaidiNiaoCore.dll
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\bin\Debug\Lazy.KuaidiNiaoCore.pdb
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\obj\Debug\Lazy.KuaidiNiaoCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\obj\Debug\Lazy.KuaidiNiaoCore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\obj\Debug\Lazy.KuaidiNiaoCore.dll
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\obj\Debug\Lazy.KuaidiNiaoCore.pdb
+C:\Users\Administrator\Desktop\Lazy.KuaidiNiao\Lazy.KuaidiNiaoCore\obj\Debug\Lazy.KuaidiNiaoCore.csprojAssemblyReference.cache

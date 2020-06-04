@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.WebApp", "Lazy.WebApp\Lazy.WebApp.csproj", "{1BF31A5E-6B1C-4439-9C74-10F48E170B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.KuaidiNiaoCore", "Lazy.KuaidiNiaoCore\Lazy.KuaidiNiaoCore.csproj", "{F8053808-69F1-4B52-8B58-DD9A0E588C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF31A5E-6B1C-4439-9C74-10F48E170B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF31A5E-6B1C-4439-9C74-10F48E170B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF31A5E-6B1C-4439-9C74-10F48E170B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF31A5E-6B1C-4439-9C74-10F48E170B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8053808-69F1-4B52-8B58-DD9A0E588C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8053808-69F1-4B52-8B58-DD9A0E588C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8053808-69F1-4B52-8B58-DD9A0E588C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8053808-69F1-4B52-8B58-DD9A0E588C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0F009E-8EF5-4701-B602-3D67D6C2B5F2}
+	EndGlobalSection
+EndGlobal

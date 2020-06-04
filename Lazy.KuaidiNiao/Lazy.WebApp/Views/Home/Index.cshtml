@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<div id="content">
+    @Html.Raw(ViewBag.Data)
+</div>
+
+<div>
+    <input type="button" id="print" value="打印" />
+</div>
+
+<script>
+    $(function () {
+
+        $("#print").click(function () {
+            var content = $("#content").html();
+            doPrint(content);
+        });
+    });
+
+
+    function doPrint(content) {
+        //根据div标签ID拿到div中的局部内容
+        bdhtml = window.document.body.innerHTML;
+        //把获取的 局部div内容赋给body标签, 相当于重置了 body里的内容
+        window.document.body.innerHTML = content;
+        //调用打印功能
+        window.print();
+        window.document.body.innerHTML = bdhtml;//重新给页面内容赋值；
+        return false;
+    }
+</script>
